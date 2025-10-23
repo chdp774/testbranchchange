@@ -12,5 +12,5 @@ while exp != 0:
         min_exp = exp
 
 print("total exp: ", total_exp)
-print('Min exp: ', min_exp)
-print('Max exp: ', max_exp)
+print('Min exp: ', min_exp);
+print('Max exp: ', max_exp);
